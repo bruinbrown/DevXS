@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#apDiv1 {
+	position:absolute;
+	width:134px;
+	height:414px;
+	z-index:1;
+	left: 41px;
+	top: 220px;
+}
+
+
+a.link:link{
+	color:#000000;
+	font-size:24px;
+	text-decoration:none;
+	
+	
+}
+
+a.link:visited {
+	color:#000;
+	
+	
+}
+
+a.link:hover {
+	color:#F33;
+	
+	
+}
+#content {
+	padding:20px;
+	border-width:medium;
+	border-style:solid;
+	border-color:#3399FF;	
+	
+}
+
+
+#apDiv2 {
+	border-style:solid;
+	border-width:medium;
+	position:absolute;
+	width:740px;
+	height:140px;
+	z-index:2;
+	left: 23px;
+	top: 18px;
+}
+#content {
+	position:absolute;
+	width:700px;
+	height:500
+	px;
+	z-index:3;
+	left: 186px;
+	top: 200px;
+}
